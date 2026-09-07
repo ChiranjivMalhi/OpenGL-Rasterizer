@@ -32,17 +32,25 @@ The renderer follows the standard programmable OpenGL pipeline. 3D models are im
 
 The project uses separate components for **mesh loading, camera control, transformations, shader management, textures, and lighting**, keeping the rendering code modular and easier to extend.
 
-### Final Render
+### Abmbient
+<img width="500" height="500" alt="Screenshot 2026-09-07 142006" src="https://github.com/user-attachments/assets/f6be7b39-1140-4f73-8125-2455e58b39c9" />
 
-![Final Render](Content/README/final.png)
+### Ambient + Diffuse (Directional Lighting)
+<img width="500" height="500" alt="Screenshot 2026-09-07 142122" src="https://github.com/user-attachments/assets/347beecd-729d-49c9-98c1-2324173c8960" />
 
-### Normal Mapping
 
-![Normal Mapping](Content/README/normal-mapping.png)
+### Ambient + Diffuse + Specular (Directional Lighting)
+<img width="500" height="500" alt="Screenshot 2026-09-07 141924" src="https://github.com/user-attachments/assets/2b636667-4cb1-48ae-99ff-44d8546c297d" />
 
-### Lighting & Materials
 
-![Lighting](Content/README/lighting.png)
+
+### Final Render with Normal Mapping
+<img width="500" height="500" alt="Screenshot 2026-09-07 142207" src="https://github.com/user-attachments/assets/b070e05c-f7e5-4ed9-b290-5c672f151810" />
+
+<img width="500" height="500" alt="Screenshot 2026-09-06 231125" src="https://github.com/user-attachments/assets/c7d6c4fa-f3e3-49e0-8464-36e2570f9927" />
+
+
+
 
 ---
 
@@ -124,8 +132,6 @@ git clone https://github.com/ChiranjivMalhi/OpenGL-Rasterizer.git
 ```
 
 Open `Project1.sln` in Visual Studio, build the `Project1` project, and run the application.
-
-For additional setup information, see [`SETUP_GUIDE.md`](SETUP_GUIDE.md).
 
 ---
 
