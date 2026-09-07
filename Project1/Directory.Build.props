@@ -1,0 +1,12 @@
+<Project>
+  <PropertyGroup>
+	<!-- Force use of C++17 for all projects to support dependencies (gli, assimp) -->
+	<LanguageStandard>stdcpp17</LanguageStandard>
+  </PropertyGroup>
+  <!-- Override for all configurations -->
+  <ItemDefinitionGroup>
+	<ClCompile>
+	  <LanguageStandard>stdcpp17</LanguageStandard>
+	</ClCompile>
+  </ItemDefinitionGroup>
+</Project>
