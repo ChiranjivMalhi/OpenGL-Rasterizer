@@ -5,7 +5,11 @@ A real-time 3D renderer built in **C++ and OpenGL** to explore the fundamentals 
 ## Demo
 
 <p align="center">
-  <video src="Content/README/demo.mp4" width="700" controls></video>
+  <video src="Content/README/demo.mp4" width="700" controls> 
+
+https://github.com/user-attachments/assets/ba9c23f5-722b-4650-bdea-76e6fd90472d
+
+</video>
 </p>
 
 ---
