@@ -149,6 +149,9 @@ The renderer is designed to be extended with more advanced real-time rendering t
 
 This project was developed using the following resources and libraries:
 
+* **Overall Architecture**
+https://ogldev.org/
+
 * **LearnOpenGL** — Joey de Vries
   https://learnopengl.com/
 
@@ -169,7 +172,7 @@ This project was developed using the following resources and libraries:
 
 * **stb_image — Image Loading Library**
   https://github.com/nothings/stb
-
+  
 ---
 
 ## Author
